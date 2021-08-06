@@ -1,4 +1,4 @@
-# Using Siamese Networks to recommend similar clothing articles
+# Using Siamese Networks to recommend clothes
 The objectives of this project are to do a deep-dive into siamese networks and implementing and end-end solution
 
 <u> Model output </u>
