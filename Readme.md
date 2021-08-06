@@ -13,9 +13,7 @@ Triplet Loss folder contains a notebook that uses Triplet Loss on MNIST:
 <br>
 Contrastive Loss folder contains a notebook that uses Contrastive Loss on Fashion MNIST:
 
-
 ![Alt text](./static/img/contrastive loss.png?raw=true "Title")
-![Alt text](./static/img/tripletloss.png?raw=true "Title")
 
 <br>
 Contrastive Loss folder contains a notebook that uses Contrastive Loss on Fashion MNIST:
