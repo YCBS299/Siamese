@@ -1,4 +1,5 @@
-### Siamese Network using Contrastive Loss on MNIST
+### Siamese Network using Triplet Loss on MNIST
 
-Insipired by Pyimagesearch and several code snippets were used from their site to help build the notebook
-https://pyimagesearch.mykajabi.com/products/pyimagesearch-university-full-access-plan/categories/4672019/posts/15978721
+Insipired by Pyimagesearch and code snippets from
+https://zhangruochi.com/Create-a-Siamese-Network-with-Triplet-Loss-in-Keras/2020/08/11/
+and from https://towardsdatascience.com/how-to-train-your-siamese-neural-network-4c6da3259463
