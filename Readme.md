@@ -14,7 +14,7 @@ MNIST and Tops use Triplet Loss:
 
 While Fashion MNIST uses Contrastive Loss:
 
-![Alt text](./static/img/contrastive loss.png?raw=true "Title")
+![Alt text](./static/img/contrastive_loss.png?raw=true "Title")
 
 ## Requirements
 All notebooks were run on Google Colab, and using the GPU runtime is highly recommended:
