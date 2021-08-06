@@ -6,7 +6,7 @@ This repo contains 3 different Siamese Networks for the MNIST, FASHION MNIST, an
 
 <br>
 Triplet Loss folder contains a notebook that uses Triplet Loss on MNIST:
-
+<br>
 ![Alt text](./static/img/tripletloss.png?raw=true "Title")
 
 <br>
