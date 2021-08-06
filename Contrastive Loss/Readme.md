@@ -1,5 +1,4 @@
-### Dataset: Amazon review data (2018):
-http://deepyeti.ucsd.edu/jianmo/amazon/index.html
+### Siamese Network using Contrastive Loss on MNIST
 
-### Triplet dataset
-https://console.cloud.google.com/storage/browser/fynd-open-source/research/MILDNet
+Insipired by Pyimagesearch and several code snippets were used from their site to help build the notebook
+https://pyimagesearch.mykajabi.com/products/pyimagesearch-university-full-access-plan/categories/4672019/posts/15978721
