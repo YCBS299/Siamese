@@ -1,28 +1,20 @@
-# Using Siamese Networks to recommend clothes
+# Using Siamese Networks to recommend similar clothing articles
 The objectives of this project are to do a deep-dive into siamese networks and implementing and end-end solution
-
-
-This repo contains 3 different Siamese Networks for the MNIST, FASHION MNIST, and clothing recommendation data set respectively.
-
-<br>
-Triplet Loss folder contains a notebook that uses Triplet Loss on MNIST:
-
-
-![Alt text](./static/img/tripletloss.png?raw=true "Title")
-
-<br>
-Contrastive Loss folder contains a notebook that uses Contrastive Loss on Fashion MNIST:
-
-![Alt text](./static/img/contrastive loss.png?raw=true "Title")
-
 
 <u> Model output </u>
 
 ![Alt text](./static/img/Modeloutput.jpg?raw=true "Title")
 
+This repo contains 3 different Siamese Networks for the MNIST, fashion_mnist, and tops data set.
+The tops data is our clothing database. The 3 models can be found in their respective folder. 
 
+MNIST and Tops use Triplet Loss:
 
+![Alt text](./static/img/tripletloss.png?raw=true "Title")
 
+While Fashion MNIST uses Contrastive Loss:
+
+![Alt text](./static/img/contrastive loss.png?raw=true "Title")
 
 ## Requirements
 All notebooks were run on Google Colab, and using the GPU runtime is highly recommended:
