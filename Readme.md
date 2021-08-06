@@ -9,17 +9,23 @@ Triplet Loss folder contains a notebook that uses Triplet Loss on MNIST:
 
 ![Alt text](./static/img/tripletloss.png?raw=true "Title")
 
+<br>
+Contrastive Loss folder contains a notebook that uses Contrastive Loss on Fashion MNIST:
+
+![Alt text](./static/img/contrastive loss.png?raw=true "Title")
+
+
+<br>
+Contrastive Loss folder contains a notebook that uses Contrastive Loss on Fashion MNIST:
+
+
 <u> Model output </u>
 
 ![Alt text](./static/img/Modeloutput.jpg?raw=true "Title")
 
 
-MNIST and Tops use Triplet Loss:
 
 
-While Fashion MNIST uses Contrastive Loss:
-
-![Alt text](./static/img/contrastive loss.png?raw=true "Title")
 
 ## Requirements
 All notebooks were run on Google Colab, and using the GPU runtime is highly recommended:
