@@ -1,12 +1,18 @@
 # Using Siamese Networks to recommend clothes
 The objectives of this project are to do a deep-dive into siamese networks and implementing and end-end solution
 
+
+This repo contains 3 different Siamese Networks for the MNIST, fashion_mnist, and clothing recommendation data set.
+
+
+
+
+
+
 <u> Model output </u>
 
 ![Alt text](./static/img/Modeloutput.jpg?raw=true "Title")
 
-This repo contains 3 different Siamese Networks for the MNIST, fashion_mnist, and tops data set.
-The tops data is our clothing database. The 3 models can be found in their respective folder. 
 
 MNIST and Tops use Triplet Loss:
 
