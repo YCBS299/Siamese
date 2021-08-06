@@ -2,12 +2,11 @@
 The objectives of this project are to do a deep-dive into siamese networks and implementing and end-end solution
 
 
-This repo contains 3 different Siamese Networks for the MNIST, fashion_mnist, and clothing recommendation data set.
+This repo contains 3 different Siamese Networks for the MNIST, FASHION MNIST, and clothing recommendation data set.
 
+Triplet Loss folder contains a notebook that uses Triplet Loss on MNIST
 
-
-
-
+![Alt text](./static/img/tripletloss.png?raw=true "Title")
 
 <u> Model output </u>
 
@@ -16,7 +15,6 @@ This repo contains 3 different Siamese Networks for the MNIST, fashion_mnist, an
 
 MNIST and Tops use Triplet Loss:
 
-![Alt text](./static/img/tripletloss.png?raw=true "Title")
 
 While Fashion MNIST uses Contrastive Loss:
 
