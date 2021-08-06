@@ -1,5 +1,4 @@
-Using Siamese Networks to recommend similar clothing
-
+### Using Siamese Networks to recommend clothes
 We are trying to learn the embedding of images in order to learn the visual similarity. Finding products that looks similar to a particular product is an important feature for a e-commerce platforms. We will be trying this on a image dataset that contains cropped tops
 
 Ref Papers:
