@@ -2,9 +2,10 @@
 The objectives of this project are to do a deep-dive into siamese networks and implementing and end-end solution
 
 
-This repo contains 3 different Siamese Networks for the MNIST, FASHION MNIST, and clothing recommendation data set.
+This repo contains 3 different Siamese Networks for the MNIST, FASHION MNIST, and clothing recommendation data set respectively.
 
-Triplet Loss folder contains a notebook that uses Triplet Loss on MNIST
+<br>
+Triplet Loss folder contains a notebook that uses Triplet Loss on MNIST:
 
 ![Alt text](./static/img/tripletloss.png?raw=true "Title")
 
