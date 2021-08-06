@@ -16,7 +16,7 @@ Contrastive Loss folder contains a notebook that uses Contrastive Loss on Fashio
 ![Alt text](./static/img/contrastive_loss.png?raw=true "Title")
 
 
-<u> Clothing recommendation model output </u>
+## <u> Clothing recommendation model output </u>
 
 ![Alt text](./static/img/Modeloutput.jpg?raw=true "Title")
 
